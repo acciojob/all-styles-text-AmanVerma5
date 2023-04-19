@@ -1,15 +1,18 @@
 
 /* Your CSS Code here. */
-.main{
-	width:200px;
-	background-color:purple;
-	color:white;
-	border-width:5px;
-	border-left-color:green;
-	border-style-left:solid;
-	font-size:20px;
-	padding:10px;
+.main {
+  background-color: purple;
+  width: 200px;
+  /* height: 200px; */
+  /* border-left: 5px solid green; */
+  border-left-width: 5px;
+  border-left-style: solid;
+  border-left-color: green;
+  padding: 10px;
 }
-#heading{
-	
+
+#heading {
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
 }
